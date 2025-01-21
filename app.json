@@ -1,6 +1,6 @@
 {
-  "name": "SOBIA MD",
-  "description": "SOBIA MD IS THE MAKE BY USING BAILEY'S",
+  "name": "TANOLI MD",
+  "description": "TANOLI MD IS THE MAKE BY USING BAILEY'S",
   "logo": "https://i.ibb.co/zxJjd9P/Manul-Ofc-X.jpg",
   "keywords": ["bot"],
   "success_url": "/",
@@ -95,7 +95,7 @@
     "BOT_NAME": {
       "description": "write hear your name.",
       "required": true,
-      "value": "SOBIA MD"
+      "value": "TANOLI MD"
     }, 
 
     "HEART_REACT": {
@@ -112,12 +112,12 @@
     "CAPTION": {
       "description": "enter your caption if you want to show on menu.",
       "required": true,
-      "value": "POWERED BY SOBIABUTT133"
+      "value": "POWERED BY HAMMADTANOLI"
     }, 
     "STATUS_REPLY": {
       "description": "enter your caption if you want to show on status reply.",
       "required": true,
-      "value": "➺үσυя sтαтυs sεεη נυsт ησω вү sσвia м∂"
+      "value": "➺үσυя sтαтυs sεεη נυsт ησω вү TANOLI м∂"
     },
     "AUTO_REPLY_STATUS": {
       "description": "you can true or false it.",

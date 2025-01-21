@@ -17,7 +17,7 @@ const url = data.url
     
     
 let desc = `
-⫷⦁[ *SOBIA MD MUSIC DOWNLOADING* ]⦁⫸
+⫷⦁[ *TANOLI MD MUSIC DOWNLOADING* ]⦁⫸
 
 🎵 *MUSIC FOUND!* 
 
@@ -29,7 +29,7 @@ let desc = `
 
 🎧 *ENJOY THE MUSIC BROUGHT TO YOU!*
 
-> *SOBIA MD WHATSAPP BOT* 
+> *TANOLI MD WHATSAPP BOT* 
 
 > *© ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱᴏʙɪᴀ ʙᴜᴛᴛ* 
 `
@@ -70,7 +70,7 @@ const url = data.url
     
     
 let desc = `
-⫷⦁[ *•SOBIA-MD VIDEO DOWNLOADING* ]⦁⫸ 
+⫷⦁[ *•TANOLI-MD VIDEO DOWNLOADING* ]⦁⫸ 
 
 🎥 *VIDEO FOUND!* 
 
@@ -82,9 +82,9 @@ let desc = `
 
 🎬 *ENJOY THE VIDEO BROUGHT TO YOU!*
 
-> *SOBIA-MD WHATSAPP BOT* 
+> *TANOLI-MD WHATSAPP BOT* 
 
-> *© ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱᴏʙɪᴀ ʙᴜᴛᴛ*
+> *© ᴄʀᴇᴀᴛᴇᴅ ʙʏ Hammad Ali*
 `
 
 await conn.sendMessage(from,{image:{url: data.thumbnail},caption:desc},{quoted:mek});

@@ -33,14 +33,14 @@ let madeMenu = `*╭─────────────────❒⁠⁠
 *┕─────────────────❒*
 
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━
-   *ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ꜱᴏʙɪᴀ ᴍᴅ ғᴜʟʟ ᴄᴏᴍᴍᴀɴᴅ ʟɪsᴛ*
+   *ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ Tanoli ᴍᴅ ғᴜʟʟ ᴄᴏᴍᴍᴀɴᴅ ʟɪsᴛ*
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-*ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱᴏʙɪᴀ ʙᴜᴛᴛ*
+*ᴄʀᴇᴀᴛᴇᴅ ʙʏ Hammad Ali*
 
 
 *╭───────────────❒⁠⁠⁠⁠*
-*│* *_https://github.com/Sobxsparl/SOBIA-MD*
+*│* *_https://github.com/TanoliHuYar/TANOLI-MD*
 *┕───────────────❒*
 
 *╭───────────────❒⁠⁠⁠⁠*
@@ -91,7 +91,7 @@ ${menu.search}
 
 *❒⁠⁠⁠⁠▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭❒*⁠⁠⁠⁠
 
-> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ ꜱᴏʙɪᴀ ᴍᴅ*
+> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ TANOLI ᴍᴅ*
 
 ╰━❁ ═══ ❃•⇆•❃ ═══ ❁━╯
 `
@@ -101,5 +101,5 @@ await conn.sendMessage(from,{image:{url:config.ALIVE_IMG},caption:madeMenu},{quo
 }catch(e){
 console.log(e)
 reply(`${e}`)
-}
+} 
 })

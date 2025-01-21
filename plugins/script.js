@@ -13,13 +13,13 @@ try{
 let repo =`
 *╭──────────────●●►*
 > *BOT OWNER:*
-*|* *SOBIA BUTT*
+*|* *HAMMAD TANOLI*
 
-> *SOBIA MD REPO:*
-*|* *https://github.com/Sobxsparl/SOBIA-MD*
+> *TANOLI MD REPO:*
+*|* *https://github.com/TanoliHuYar/TANOLI-MD*
 
 > *SUPPORT CHANNEL:*
-*|* *https://whatsapp.com/channel/0029VaswGwq5a23yxeJ6YB3t*
+*|* *https://whatsapp.com/channel/0029Vay3gmS7tkjHfmRhfs0H/106*
 *╰──────────────●●►*
 
 > *update command Done*
@@ -32,14 +32,14 @@ await conn.sendMessage(from, { text: repo ,
     isForwarded: false,
     forwardedNewsletterMessageInfo: {
       newsletterJid: '12036323288171807@newsletter',
-      newsletterName: "UMAR",
+      newsletterName: "HAMMAD",
       serverMessageId: 999
     },
 externalAdReply: { 
-title: 'SOBIA MD',
+title: 'TANOLI MD',
 body: `${pushname}`,
 mediaType: 1,
-sourceUrl: "https://github.com/Sobxsparl/SOBIA-MD" ,
+sourceUrl: "https://github.com/TanoliHuYar/TANOLI-MD" ,
 thumbnailUrl: "https://files.catbox.moe/m1rf91.jpg" ,
 renderLargerThumbnail: true,
 showAdAttribution: true

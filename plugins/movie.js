@@ -25,7 +25,7 @@ cmd({
         }
 
         const movieInfo = `
-*🎬 SOBIA MD 🎬*
+*🎬 TANOLI MD 🎬*
 
 *ᴛɪᴛʟᴇ:* ${data.Title}
 *ʏᴇᴀʀ:* ${data.Year}

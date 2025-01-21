@@ -1,12 +1,12 @@
 {
-  "name": "SOBIA-MD",
+  "name": "TANOLI-MD",
   "version": "1.0.0",
   "description": "A WhatsApp bot created using Bailey's",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name SOBIA-MD",
-    "stop": "pm2 stop SOBIA-MD",
-    "restart": "pm2 restart SOBIA-MD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name TANOLI-MD",
+    "stop": "pm2 stop TANOLI-MD",
+    "restart": "pm2 restart TANOLI-MD"
   },
   "dependencies": {
         "@adiwajshing/keyed-db": "^0.2.4",

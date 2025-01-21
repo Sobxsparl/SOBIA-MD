@@ -10,7 +10,7 @@ let baseUrl;
 })();
 
 
-const yourName = "*SOBIA MD🧬*";
+const yourName = "*TANOLI MD🧬*";
 
 //twitter dl (x)
 cmd({
